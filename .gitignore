@@ -1,0 +1,7 @@
+.vscode/
+docs/
+phpdoc.dist.xml
+vendor/
+service/
+code-analyzer.code-workspace
+.editorconfig
